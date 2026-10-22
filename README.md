@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://tamaninah.netlify.app"><img src="https://img.shields.io/badge/Tamaninah-Live-22d3ee?style=for-the-badge&labelColor=0a1424" alt="Tamaninah live"></a>
-  <a href="https://rafeeq-kids.netlify.app"><img src="https://img.shields.io/badge/Rafeeq-Live-22d3ee?style=for-the-badge&labelColor=0a1424" alt="Rafeeq live"></a></p>
+  <a href="https://rafeeq-pi.vercel.app"><img src="https://img.shields.io/badge/Rafeeq-Live-22d3ee?style=for-the-badge&labelColor=0a1424" alt="Rafeeq live"></a></p>
 
 ## 👩‍💻 About me
 
@@ -40,7 +40,7 @@ I care about the whole lifecycle: understanding the problem, designing the archi
       <h3>🦅 Rafeeq | رفيق</h3>
       <p>A safe YouTube for kids (5–12). An AI "smart cut" removes only the inappropriate <i>moment</i>, not the whole video, and turns each cut into a conversation between parents and their children.</p>
       <p><b>Protects without depriving.</b></p>
-      <a href="https://rafeeq-kids.netlify.app"><b>Live demo →</b></a> &nbsp;·&nbsp;
+      <a href="https://rafeeq-pi.vercel.app"><b>Live demo →</b></a> &nbsp;·&nbsp;
       <a href="https://github.com/YaraAbdulrahim/rafeeq">Repo</a>
     </td>
   </tr>
